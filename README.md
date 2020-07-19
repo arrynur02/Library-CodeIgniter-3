@@ -7,4 +7,4 @@
 	 Library Untuk Datatables Server Side
 
 	-My_Upload
-	 Library Untuk Multiple Upload  , tinggal kasih @foreach / @for di Controller !!
+	 Library Untuk Multiple Upload  , tinggal kasih foreach / for di Controller !!
